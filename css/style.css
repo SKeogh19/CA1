@@ -1,0 +1,319 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#container {
+	width: 1189px;
+	height: 1350px;
+	
+}
+
+#container1{
+	width: 100%;
+	height: 700px;
+	border-style: dashed;
+}
+
+#h {
+	width: 82%;
+	height: 278px;
+	margin-left: 200px;
+	
+}
+
+.contain {
+	width: 70%;
+	height: 163px;
+	border-style: solid;
+	border-color: grey;
+	margin-left: 70px;
+	margin-top: 50px;
+	
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	margin-top: -5px;
+	color: #1D1E18;
+}
+
+nav {
+	text-align: center;
+	width: 80%;
+	height: 34px;
+	margin-left: 80px;
+	
+}
+
+nav a:link, nav a:visited {
+	display: inline-block;
+	color: grey;
+	text-decoration: none;
+	margin: 20px;
+	position: relative;
+	bottom: 40px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 18px;
+	font-style:italic;
+	
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: black;
+	font-style: italic;
+	
+}
+
+#page1 {
+	height: 1400px;
+	width: 50%;
+	display: inline-block;
+
+	
+}
+
+img {
+	height: 288px;
+	width: 430px;
+	margin-left: 80px;
+	margin-top: 20px;
+	display: inline-block;
+	
+}
+	
+h3 { 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-left: 250px;
+	margin-top: -10px;
+}
+
+h5 { 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 18px
+
+}
+
+h4 { 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-left: 20px;
+	margin-top: -5px;
+}
+p {
+	font-style: italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	margin-left: 230px;
+	margin-top: -15px;
+	
+}
+
+.sp {
+	height: 397px;
+	width: 432px;
+	margin-left: 80px;
+	margin-top: 20px;
+	display: inline-block;
+	
+}
+
+#page2 {
+	float: left;
+	height: 1400px;
+	width: 50%;
+	display: inline-block;
+
+}
+
+.p2 { 
+	font-style: italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	margin-left: 210px;
+	margin-top: -15px;
+}
+
+.p3{
+	font-style: italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	margin-left: 230px;
+	margin-top: -15px;
+}
+
+.hed {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-left: 210px;
+	margin-top: -5px;
+
+}
+
+footer {
+	text-align:center;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:16px;
+	font-style: oblique;
+	color: black;
+	
+	
+	
+}
+
+.page3 {
+	height: 400px;
+	width: 30%;
+	display: inline-block;
+	border-style: solid;
+	border-color: darkgrey;
+	margin-left: 100px;
+	margin-top: -70px;
+
+
+}
+
+.page4 {
+	height: 400px;
+	width: 50%;
+	display: inline-block;
+	border-style: solid;
+	border-color: darkgrey;
+	margin-left: 10px;
+	margin-top: -70px;
+	vertical-align: top;
+
+
+}
+.contain1 {
+	width: 70%;
+	height: 163px;
+	border-style: solid;
+	border-color: grey;
+	margin-left: 70px;
+	margin-top: 240px;
+	background-color: white;
+
+}
+
+.img-circle {
+	border-radius: 50%;
+	width: 227px;
+	height: 261px;
+	margin-right: 50px;
+}
+
+.p4 {
+	font-family: "Century Gothic", sans-serif;
+	margin-left: 20px;
+	font-size: 15px;
+}
+
+.p5 {
+	font-family: "Century Gothic", sans-serif;
+	margin-top: -50px;
+	margin-left: 20px;
+	font-size: 15px;
+
+	}
+
+.icons {
+	width: 30px;
+	height: 30px;
+}
+
+h2 {
+	font-family: Futura, sans-serif;
+	margin-left: 20px;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+
+.grad {
+	background:-webkit-linear-gradient(#D0D6B5, #F9B5AC); /* For Safari & Chrome */
+	background:-o-linear-gradient(#D0D6B5, #F9B5AC); /* For Opera */
+	background:-moz-linear-gradient(#D0D6B5, #F9B5AC); /* For Mozilla */
+	background:-ms-linear-gradient(#D0D6B5, #F9B5AC); /* For Internet Explorer */
+	background-color:#D0D6B5; /* For Unsupported */
+
+
+
+}
+
+#vid {
+	margin-left: 350px;
+}
+
+#vid2 {
+	margin-left: 350px;
+	margin-top: 100px;
+}
+
+.p6 {
+	font-family: "Century Gothic", sans-serif;
+	margin-top: -50px;
+	margin-left: -350px;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+#page5 {
+	height: 1050px;
+	width: 30%;
+	margin-left: 50px;
+	display: inline-block;
+	border-style: solid;
+	border-color: grey;
+	background-color: #CFD6EA;
+}
+
+.sketch {
+	width: 328px ;
+	height: 461px;
+	margin-left: 20px;
+	margin-top: -50px
+}
+
+#page6 {
+	width: 30%;
+	height: 1050px;
+	border-style: solid;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #CFD6EA;
+	border-color: grey;
+
+}
+
+.con {
+	width: 328px ;
+	height: 461px;
+	margin-left: 20px;
+	margin-top: -50px;
+
+
+}
+
+#page7 {
+	width: 30%;
+	height: 1050px;
+	border-style: solid;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #CFD6EA;
+	border-color: grey;
+}
+
+.fin {
+	width: 328px ;
+	height: 461px;
+	margin-left: 20px;
+	margin-top: -50px;
+
+}
