@@ -204,6 +204,8 @@ footer {
 	width: 227px;
 	height: 261px;
 	margin-right: 50px;
+	z-index; auto;
+	position:relative;
 }
 
 .p4 {
